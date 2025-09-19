@@ -35,12 +35,3 @@
 
 ---
 
-## 📁 專案結構
-
-leetcode_solver/  
-├── agent.py           (LangGraph agent)  
-├── main.py            (FastAPI app)  
-├── test_api.py        (測試用 POST 請求)  
-├── requirements.txt  
-└── README.md  
-
